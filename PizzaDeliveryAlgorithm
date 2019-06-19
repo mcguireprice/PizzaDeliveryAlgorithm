@@ -6,3 +6,4 @@
 5. Receive Pizza.
     a. If pizza is not ----- (pizza type), then send back. Otherwise, continue.
 6. If we did not tip on the phone, then tip driver.
+7. Eat the pizza
